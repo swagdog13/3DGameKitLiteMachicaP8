@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 0de83b453b70f7c40aae556a04bed5ce
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -642,7 +642,8 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
@@ -698,7 +699,7 @@ PlayerSettings:
   cloudProjectId: a4c52083-75e0-4008-b68c-54bbf529842f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: P8Machica3DGameKitLite
   organizationId: swagdog13
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
